@@ -1,4 +1,4 @@
-# React Blog
+## React Blog
 
 Simple React Blog
 
